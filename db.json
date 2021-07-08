@@ -198,38 +198,6 @@
         "isLocationUcaRequired": true
       },
       {
-        "locationId": "cb9f64db-82d9-eb11-bacb-000d3a17ee55",
-        "locationName": "June30_test",
-        "locationAddress": {
-          "street1": "1256",
-          "street2": "Street",
-          "fullAddress": null,
-          "city": "Orlando",
-          "state": "AK",
-          "county": null,
-          "zipCode": "123456",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
-      {
-        "locationId": "a24eb21f-2bd8-eb11-bacb-000d3a17ee55",
-        "locationName": "June28_auto_sub",
-        "locationAddress": {
-          "street1": "268",
-          "street2": "street",
-          "fullAddress": null,
-          "city": "Orlando",
-          "state": "AK",
-          "county": null,
-          "zipCode": "56478",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
-      {
         "locationId": "0968cc59-12d0-eb11-bacc-002248240deb",
         "locationName": "Concierge - Kessler CM Arizona_test",
         "locationAddress": {
@@ -293,22 +261,7 @@
         "isCorporateUcaRequired": false,
         "isLocationUcaRequired": true
       },
-      {
-        "locationId": "253d6653-32d3-eb11-bacc-0022481ecf61",
-        "locationName": "Auto_subscribe_test",
-        "locationAddress": {
-          "street1": "214",
-          "street2": "street",
-          "fullAddress": null,
-          "city": "Alaska",
-          "state": "AK",
-          "county": null,
-          "zipCode": "12345",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
+      
       {
         "locationId": "edf573c7-cfda-e811-a972-000d3a18c42e",
         "locationName": "Concierge - Kriya Management Group LLC",
