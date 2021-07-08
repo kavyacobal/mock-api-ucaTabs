@@ -4,22 +4,7 @@
     "programId": "6d89f040-06e6-e911-a98c-000d3a18c42e",
     "programName": "3BS Company LLC - NT",
     "locations": [
-      {
-        "locationId": "d3364763-00db-e811-a972-000d3a18c42e",
-        "locationName": "Comfort Suites Grand Prairie North (Kriya)",
-        "locationAddress": {
-          "street1": "702 Paddock Way Drive",
-          "street2": null,
-          "fullAddress": null,
-          "city": "Grand Prairie",
-          "state": "TX",
-          "county": null,
-          "zipCode": "75050",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
+      
       {
         "locationId": "edf573c7-cfda-e811-a972-000d3a18c42e",
         "locationName": "Concierge - Kriya Management Group LLC",
@@ -136,22 +121,7 @@
     "programId": "d95ea28e-06e6-e911-a98c-000d3a18c42e",
     "programName": "151 Foods, LLC (Formerly Amoroso's Baking)",
     "locations": [
-      {
-        "locationId": "221d5179-37d3-eb11-bacc-0022481ecc77",
-        "locationName": "June22_test_opportunity",
-        "locationAddress": {
-          "street1": "215",
-          "street2": "street",
-          "fullAddress": null,
-          "city": "Orlando",
-          "state": "AK",
-          "county": null,
-          "zipCode": "25634",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
+     
       {
         "locationId": "dae454bc-11d0-eb11-bacc-002248240a7d",
         "locationName": "Concierge - Kessler CM Arizona",
@@ -194,22 +164,7 @@
         "isCorporateUcaRequired": false,
         "isLocationUcaRequired": true
       },
-      {
-        "locationId": "e6fb24a5-e4d8-eb11-bacb-000d3a17eaa0",
-        "locationName": "29th June Now",
-        "locationAddress": {
-          "street1": "682  Stonepot Road",
-          "street2": null,
-          "fullAddress": null,
-          "city": "Clinton",
-          "state": "AK",
-          "county": null,
-          "zipCode": "10020",
-          "country": null
-        },
-        "isCorporateUcaRequired": false,
-        "isLocationUcaRequired": true
-      },
+      
       {
         "locationId": "1ec37749-17d0-eb11-bacc-002248240a7d",
         "locationName": "MIR New Location TD - 1",
