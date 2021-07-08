@@ -1,0 +1,380 @@
+{
+"ucaType":[
+  {
+    "programId": "6d89f040-06e6-e911-a98c-000d3a18c42e",
+    "programName": "3BS Company LLC - NT",
+    "locations": [
+      {
+        "locationId": "d3364763-00db-e811-a972-000d3a18c42e",
+        "locationName": "Comfort Suites Grand Prairie North (Kriya)",
+        "locationAddress": {
+          "street1": "702 Paddock Way Drive",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Grand Prairie",
+          "state": "TX",
+          "county": null,
+          "zipCode": "75050",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "edf573c7-cfda-e811-a972-000d3a18c42e",
+        "locationName": "Concierge - Kriya Management Group LLC",
+        "locationAddress": {
+          "street1": "1334/1,Main Street 11,Broad Lane 11,Main Street 11,Broad Lane 11,Main Street 11,Broad Lane 11",
+          "street2": "Ste 400",
+          "fullAddress": null,
+          "city": "Grapevine",
+          "state": "TX",
+          "county": null,
+          "zipCode": "76051",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "dae454bc-11d0-eb11-bacc-002248240a7d",
+        "locationName": "Concierge - Kessler CM Arizona",
+        "locationAddress": {
+          "street1": "4904 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "dda1a452-00db-e811-a96b-000d3a18c732",
+        "locationName": "Comfort Inn and Suites West Fort Worth (Kriya)",
+        "locationAddress": {
+          "street1": "7801 Scott Street",
+          "street2": null,
+          "fullAddress": null,
+          "city": "White Settlement",
+          "state": "TX",
+          "county": null,
+          "zipCode": "76108",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "2868cc59-12d0-eb11-bacc-002248240deb",
+        "locationName": "Concierge - Kessler CM California_test",
+        "locationAddress": {
+          "street1": "4909 Vineland Rd Ste 653",
+          "street2": null,
+          "fullAddress": null,
+          "city": "California",
+          "state": "CA",
+          "county": null,
+          "zipCode": "14778",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-001088",
+    "foodBuyUCARequired": false,
+    "supplierProvidedUCA": true,
+    "thirdPartyUCA": false
+  },
+  {
+    "programId": "ab5da28e-06e6-e911-a98c-000d3a18c42e",
+    "programName": "A Weinstein & Associates Inc - NT",
+    "locations": [
+      {
+        "locationId": "dae454bc-11d0-eb11-bacc-002248240a7d",
+        "locationName": "Concierge - Kessler CM Arizona",
+        "locationAddress": {
+          "street1": "4904 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "0968cc59-12d0-eb11-bacc-002248240deb",
+        "locationName": "Concierge - Kessler CM Arizona_test",
+        "locationAddress": {
+          "street1": "4908 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-001096",
+    "foodBuyUCARequired": true,
+    "supplierProvidedUCA": false,
+    "thirdPartyUCA": false
+  },
+  {
+    "programId": "d95ea28e-06e6-e911-a98c-000d3a18c42e",
+    "programName": "151 Foods, LLC (Formerly Amoroso's Baking)",
+    "locations": [
+      {
+        "locationId": "221d5179-37d3-eb11-bacc-0022481ecc77",
+        "locationName": "June22_test_opportunity",
+        "locationAddress": {
+          "street1": "215",
+          "street2": "street",
+          "fullAddress": null,
+          "city": "Orlando",
+          "state": "AK",
+          "county": null,
+          "zipCode": "25634",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "dae454bc-11d0-eb11-bacc-002248240a7d",
+        "locationName": "Concierge - Kessler CM Arizona",
+        "locationAddress": {
+          "street1": "4904 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-001097",
+    "foodBuyUCARequired": true,
+    "supplierProvidedUCA": false,
+    "thirdPartyUCA": false
+  },
+  {
+    "programId": "c1b2b77c-06e6-e911-a98c-000d3a18c42e",
+    "programName": "Y Hata and Company",
+    "locations": [
+      {
+        "locationId": "85a3d153-12d0-eb11-bacc-002248240deb",
+        "locationName": "Concierge - Kessler CM Alaska_test",
+        "locationAddress": {
+          "street1": "4907 Vineland Rd Ste 651",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Anchorage",
+          "state": "AK",
+          "county": null,
+          "zipCode": "25634",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "e6fb24a5-e4d8-eb11-bacb-000d3a17eaa0",
+        "locationName": "29th June Now",
+        "locationAddress": {
+          "street1": "682  Stonepot Road",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Clinton",
+          "state": "AK",
+          "county": null,
+          "zipCode": "10020",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "1ec37749-17d0-eb11-bacc-002248240a7d",
+        "locationName": "MIR New Location TD - 1",
+        "locationAddress": {
+          "street1": "2998  Sampson Street",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Denver",
+          "state": "AB",
+          "county": null,
+          "zipCode": "10020",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "e9ec45d6-0cd4-eb11-bacc-0022481ecc77",
+        "locationName": "Auto_June23_testing",
+        "locationAddress": {
+          "street1": "256",
+          "street2": "street",
+          "fullAddress": null,
+          "city": "Orlando",
+          "state": "AK",
+          "county": null,
+          "zipCode": "85946",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "cb9f64db-82d9-eb11-bacb-000d3a17ee55",
+        "locationName": "June30_test",
+        "locationAddress": {
+          "street1": "1256",
+          "street2": "Street",
+          "fullAddress": null,
+          "city": "Orlando",
+          "state": "AK",
+          "county": null,
+          "zipCode": "123456",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "a24eb21f-2bd8-eb11-bacb-000d3a17ee55",
+        "locationName": "June28_auto_sub",
+        "locationAddress": {
+          "street1": "268",
+          "street2": "street",
+          "fullAddress": null,
+          "city": "Orlando",
+          "state": "AK",
+          "county": null,
+          "zipCode": "56478",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "0968cc59-12d0-eb11-bacc-002248240deb",
+        "locationName": "Concierge - Kessler CM Arizona_test",
+        "locationAddress": {
+          "street1": "4908 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "fce454bc-11d0-eb11-bacc-002248240a7d",
+        "locationName": "Concierge - Kessler CM California",
+        "locationAddress": {
+          "street1": "4905 Vineland Rd Ste 653",
+          "street2": null,
+          "fullAddress": null,
+          "city": "California",
+          "state": "CA",
+          "county": null,
+          "zipCode": "14778",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "2868cc59-12d0-eb11-bacc-002248240deb",
+        "locationName": "Concierge - Kessler CM California_test",
+        "locationAddress": {
+          "street1": "4909 Vineland Rd Ste 653",
+          "street2": null,
+          "fullAddress": null,
+          "city": "California",
+          "state": "CA",
+          "county": null,
+          "zipCode": "14778",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "dae454bc-11d0-eb11-bacc-002248240a7d",
+        "locationName": "Concierge - Kessler CM Arizona",
+        "locationAddress": {
+          "street1": "4904 Vineland Rd Ste 652",
+          "street2": null,
+          "fullAddress": null,
+          "city": "Arizona",
+          "state": "AZ",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "253d6653-32d3-eb11-bacc-0022481ecf61",
+        "locationName": "Auto_subscribe_test",
+        "locationAddress": {
+          "street1": "214",
+          "street2": "street",
+          "fullAddress": null,
+          "city": "Alaska",
+          "state": "AK",
+          "county": null,
+          "zipCode": "12345",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      },
+      {
+        "locationId": "edf573c7-cfda-e811-a972-000d3a18c42e",
+        "locationName": "Concierge - Kriya Management Group LLC",
+        "locationAddress": {
+          "street1": "1334/1,Main Street 11,Broad Lane 11,Main Street 11,Broad Lane 11,Main Street 11,Broad Lane 11",
+          "street2": "Ste 400",
+          "fullAddress": null,
+          "city": "Grapevine",
+          "state": "TX",
+          "county": null,
+          "zipCode": "76051",
+          "country": null
+        },
+        "isCorporateUcaRequired": false,
+        "isLocationUcaRequired": true
+      }
+    ],
+    "obrNumber": "OBR-001065",
+    "foodBuyUCARequired": true,
+    "supplierProvidedUCA": false,
+    "thirdPartyUCA": false
+  }
+]
+}
